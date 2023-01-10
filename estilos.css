@@ -15,7 +15,7 @@ ul{
     gap: 2px;
     grid-template-rows: repeat(8, minmax(70px, auto));
     grid-template-columns: repeat(6,minmax(1fr, auto));
-    grid-template-areas: "head head head head  head head"
+    grid-template-areas: "head head head head head head"
                            "pres pres pres foto foto foto"
                            "e1 e1 e1 e1 e1 e1"
                            "desc desc desc con con con"
